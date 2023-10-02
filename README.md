@@ -5,6 +5,7 @@
 - 📫 How to reach me: karan.rao@zohomail.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a photographer too.
+- 📍 India: Pune, Maharastra
 
 ## 🌐 Socials:
 `Yet to upload`
