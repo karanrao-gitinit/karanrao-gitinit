@@ -13,6 +13,10 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
+# WebSite Status: 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5cebc886-7386-4f35-b180-a558db10cff2/deploy-status)](https://app.netlify.com/sites/karanrao-portfolio/deploys)
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanrao-gitinit&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
